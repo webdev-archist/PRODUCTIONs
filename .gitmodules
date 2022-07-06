@@ -1,0 +1,9 @@
+[submodule "pda/PRODUCTION_pda"]
+	path = pda/PRODUCTION_pda
+	url = git@github.com:webdev-archist/PRODUCTION_pda.git
+[submodule "moi/WEBDEV_Portfolio_react"]
+	path = moi/WEBDEV_Portfolio_react
+	url = git@github.com:webdev-archist/WEBDEV_Portfolio_react.git
+[submodule "pda/PRODUCTION_pda_react"]
+	path = pda/PRODUCTION_pda_react
+	url = git@github.com:webdev-archist/PRODUCTION_pda_react.git
