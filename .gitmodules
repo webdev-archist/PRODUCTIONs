@@ -7,3 +7,9 @@
 [submodule "pda/PRODUCTION_pda_react"]
 	path = pda/PRODUCTION_pda_react
 	url = git@github.com:webdev-archist/PRODUCTION_pda_react.git
+[submodule "Aix___StFancoisStJean"]
+	path = Aix___StFancoisStJean
+	url = git@github.com:webdev-archist/PROD-ST-FR_ST-JEAN.git
+[submodule "stephaneManlan"]
+	path = stephaneManlan
+	url = https://github.com/webdev-archist/PRODUCTION___stephane
