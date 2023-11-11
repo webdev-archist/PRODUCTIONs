@@ -13,6 +13,6 @@
 [submodule "stephaneManlan"]
 	path = stephaneManlan
 	url = https://github.com/webdev-archist/PRODUCTION___stephane
-[submodule "RAYMOND/frontend_react/kynome"]
-	path = RAYMOND/frontend_react/kynome
-	url = git@github.com:achicyr/kynome.git
+[submodule "RAYMOND/kynome"]
+	path = RAYMOND/kynome
+	url = git@github.com:webdev-archist/PRODUCTION_kynome.git
